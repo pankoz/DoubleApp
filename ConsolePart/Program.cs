@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LibraryPart.Class1;
 
 namespace ConsolePart
 {
@@ -10,6 +11,8 @@ namespace ConsolePart
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("MASTER +" + Test());
+            Console.ReadLine();
         }
     }
 }

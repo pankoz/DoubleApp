@@ -8,5 +8,10 @@ namespace LibraryPart
 {
     public class Class1
     {
+        static string Test()
+        {
+            return "MASTER";
+        }
+
     }
 }
