@@ -10,7 +10,7 @@ namespace LibraryPart
     {
         static string Test()
         {
-            return "MASTER";
+            return "SECOND";
         }
 
     }

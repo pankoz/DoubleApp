@@ -11,7 +11,7 @@ namespace ConsolePart
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("MASTER +" + Test());
+            Console.WriteLine("SECOND +" + Test());
             Console.ReadLine();
         }
     }
