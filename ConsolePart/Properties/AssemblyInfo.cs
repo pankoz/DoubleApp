@@ -20,7 +20,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("45520242-5360-473f-8464-10fb3ba62892")]
+=======
+[assembly: Guid("d6666619-efe6-4772-8663-d37902123c3b")]
+>>>>>>> DoubleApp/master
 
 // Version information for an assembly consists of the following four values:
 //

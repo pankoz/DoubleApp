@@ -4,15 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+<<<<<<< HEAD
 using System.Configuration;
 using System.Web;
 using System.Web.Configuration;
 using System.Web.Hosting;
 
+=======
+>>>>>>> DoubleApp/master
 namespace LibraryPart
 {
     public class Class1
     {
+<<<<<<< HEAD
         public bool IsWebApp { get { return procName.StartsWith("iisexpress"); } }
         public bool IsConApp { get { return !procName.StartsWith("iisexpress"); } }
 
@@ -40,6 +44,11 @@ namespace LibraryPart
                 result += exc.ToString();
             }
             return result; 
+=======
+        static string Test()
+        {
+            return "MASTER 2";
+>>>>>>> DoubleApp/master
         }
 
     }
